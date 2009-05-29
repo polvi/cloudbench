@@ -1,0 +1,9 @@
+These are some benchmarks I took using lmbench again various servers on Slicehost and EC2. To be completely accurate, you would need to run a bunch of tests, but this was a test to see what could be done in a short amount of time using free software.
+
+Per the lmbench license, the full results are included. 
+
+./ec2/i686-pc-linux-gnu/m1.small-ubuntu0 - the ubuntu beta1 ami on an m1.small instance
+./slicehost/x86_64-linux-gnu/1GB.1 - slicehost ubuntu image on a 1GB slice, run number 1
+etc
+
+Alex Polvi releases this stuff in to the public domain. Enjoy!
